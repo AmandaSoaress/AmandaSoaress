@@ -1,4 +1,8 @@
-# Olá! 
+# 🌸 Olá! 🐾
+
+<div style="display: inline_block"><br>
+  <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="foto-perfil.png">
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,11 +18,7 @@ Sou uma pessoa pro-ativa e busco sempre solucionar tudo que está ao meu alcance
 
 Minha experiência na educação me ensinou a trabalhar em equipes, elaborando projetos em conjunto, unindo qualidades diversas em prol de um objetivo em comum.
 
-Comecei estudando algorítimos através do livro "Entendendo Algorítimos - Aditya Y. Bhargava" e, em paralelo, estudando HTML, CSS e JavaScript através de cursos, artigos, meetups e bootcamps.
-
-<div style="display: inline_block"><br>
-  <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="foto-perfil.png">
-</div>
+Comecei estudando algorítimos através do livro "Entendendo Algorítimos - Aditya Y. Bhargava" e, em paralelo, estudando HTML, CSS e JavaScript através de cursos, artigos, meetups e bootcamps. 🍀
 
 <div> 
   <a href=https://www.instagram.com/nanda.tinthia/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
