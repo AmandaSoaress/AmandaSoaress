@@ -11,6 +11,8 @@ Minha experiência na educação me ensinou a trabalhar em equipes, elaborando p
 Comecei estudando algorítimos através do livro "Entendendo Algorítimos - Aditya Y. Bhargava" e, em paralelo, estudando HTML, CSS e JavaScript através de cursos, artigos, meetups e bootcamps.
 
 
+ ![Snake animation](https://github.com/AmandaSoaress/AmandaSoaress/blob/output/github-contribution-grid-snake.svg)
+ 
 <!--
 **AmandaSoaress/AmandaSoaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
