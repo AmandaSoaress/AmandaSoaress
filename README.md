@@ -38,7 +38,7 @@ Comecei estudando algorítimos através do livro "Entendendo Algorítimos - Adit
 
 <br />
 
-![Snake animation](https://github.com/AmandaSoaress/AmandaSoaress/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AmandaSoaress/AmandaSoaress/output/github-contribution-grid-snake.svg)
  
 
  
