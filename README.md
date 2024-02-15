@@ -19,8 +19,7 @@ Sou uma pessoa pro-ativa e busco sempre solucionar tudo que está ao meu alcance
 
 Minha experiência na educação me ensinou a trabalhar em equipes, elaborando projetos em conjunto, unindo qualidades diversas em prol de um objetivo em comum.
 
-Comecei estudando algorítimos através do livro "Entendendo Algorítimos - Aditya Y. Bhargava" e, em paralelo, estudando HTML, CSS e JavaScript através de cursos, artigos, meetups e bootcamps. 🍀
-
+Comecei estudando algorítimos através do livro "Entendendo Algorítimos - Aditya Y. Bhargava" e, em paralelo, estudei HTML, CSS e JavaScript através de cursos, artigos, meetups e bootcamps. Na sequência direcionei meus estudos para os frameworks, como React e VueJs.
  
 <br/>
 <div align="center">
